@@ -1,4 +1,3 @@
-```md
 <!-- ✅ DO NOT wrap the HTML in triple backticks -->
 
 <h1 align="center">Hi 👋, I'm RAVINDER KUNCHALA</h1>
@@ -23,38 +22,6 @@ CI/CD: GitHub Actions, Jenkins, GitLab CI, ArgoCD
 Monitoring: Prometheus, Grafana, CloudWatch
 
 
-🌟 **About Me**
-
-- 🔭 Currently automating infrastructure and building CI/CD pipelines  
-- 🌱 Exploring **MLOps**, **Cloud Cost Optimization**, and **Platform Engineering**  
-- 🛠️ Obsessed with automation, observability, and secure DevOps practices  
-- 💬 Ask me about: **AWS**, **Terraform**, **Docker**, **Kubernetes**, **CI/CD**, **Ansible**  
-- 📫 Reach me: [kunchalaravinder93@gmail.com](mailto:kunchalaravinder93@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ravinder-kunchala-71661b183/)  
-- ⚡ Fun fact: Always up for a good infrastructure challenge and open-source collaboration!
-
----
-
-🔧 **Tech Stack**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,python,bash,linux,git,github,vscode" />
-</p>
-
----
-
-🚀 **DevOps & Cloud Tools I Work With**
-
-```yaml
-Infrastructure as Code: Terraform
-Configuration Management: Ansible
-Cloud Platforms: AWS, Azure, GCP
-Containers: Docker, Kubernetes, Helm
-CI/CD: GitHub Actions, Jenkins, GitLab CI, ArgoCD
-Monitoring: Prometheus, Grafana, CloudWatch
-```
-
----
-
 📊 **GitHub Stats**
 
 <p align="center">
@@ -77,6 +44,4 @@ Monitoring: Prometheus, Grafana, CloudWatch
 Let’s build something meaningful.
 ```
 
-💡 **Pro Tip:** Paste this directly into your `README.md` file — **do NOT add any extra backticks** outside this code block. GitHub will automatically interpret the HTML and Markdown when you view your profile.
 
-Want to spice it up with contribution trophies, visitor badges, or GitHub activity heatmaps? Just give me the signal, RAVINDER 🔥
