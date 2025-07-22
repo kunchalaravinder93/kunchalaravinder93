@@ -1,5 +1,4 @@
-<!-- ✅ DO NOT wrap the HTML in triple backticks -->
-
+```md
 <h1 align="center">Hi 👋, I'm RAVINDER KUNCHALA</h1>
 <h3 align="center">🚀 DevOps & Cloud Engineering</h3>
 
@@ -10,9 +9,26 @@
 ---
 
 🌟 **About Me**
-... [rest of your markdown content continues]
+
+- 🔭 Currently automating infrastructure and building CI/CD pipelines  
+- 🌱 Exploring **MLOps**, **Cloud Cost Optimization**, and **Platform Engineering**  
+- 🛠️ Obsessed with automation, observability, and secure DevOps practices  
+- 💬 Ask me about: **AWS**, **Terraform**, **Docker**, **Kubernetes**, **CI/CD**, **Ansible**  
+- 📫 Reach me: [kunchalaravinder93@gmail.com](mailto:kunchalaravinder93@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ravinder-kunchala-71661b183/)  
+- ⚡ Fun fact: Always up for a good infrastructure challenge and open-source collaboration!
+
+---
+
+🔧 **Tech Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,python,bash,linux,git,github,vscode" />
+</p>
+
+---
 
 🚀 **DevOps & Cloud Tools I Work With**
+
 ```yaml
 Infrastructure as Code: Terraform
 Configuration Management: Ansible
@@ -20,7 +36,9 @@ Cloud Platforms: AWS, Azure, GCP
 Containers: Docker, Kubernetes, Helm
 CI/CD: GitHub Actions, Jenkins, GitLab CI, ArgoCD
 Monitoring: Prometheus, Grafana, CloudWatch
+```
 
+---
 
 📊 **GitHub Stats**
 
@@ -44,10 +62,6 @@ Monitoring: Prometheus, Grafana, CloudWatch
 Let’s build something meaningful.
 ```
 
-### ✅ Fixes Made:
-- Corrected Markdown syntax where HTML/links weren’t rendering.
-- Removed unnecessary opening comment blocks (`<!--`).
-- Fixed link formatting in email and LinkedIn.
-- Ensured code blocks are valid for rendering YAML and Markdown.
+💡 **Pro Tip:** Paste this directly into your `README.md` file — **do NOT add any extra backticks** outside this code block. GitHub will automatically interpret the HTML and Markdown when you view your profile.
 
-Drop this into your GitHub profile `README.md`, and it’ll sparkle 🌟. Want to add cool contributions, badges, or activity graphs too? I’ve got ideas for that.
+Want to spice it up with contribution trophies, visitor badges, or GitHub activity heatmaps? Just give me the signal, RAVINDER 🔥
