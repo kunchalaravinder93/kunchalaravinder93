@@ -1,10 +1,6 @@
-## Hi there 👋
-
-<!--
-
-````markdown
+```markdown
 <h1 align="center">Hi 👋, I'm RAVINDER KUNCHALA</h1>
-<h3 align="center">🚀 DevOps & Cloud  Engineering </h3>
+<h3 align="center">🚀 DevOps & Cloud Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Building+cloud-native+infrastructure;Automating+with+DevOps+best+practices;Always+learning+and+growing" alt="Typing SVG" />
@@ -14,12 +10,12 @@
 
 🌟 **About Me**
 
-- 🔭 I’m currently working on automating infrastructure and building CI/CD pipelines  
+- 🔭 Currently automating infrastructure and building CI/CD pipelines  
 - 🌱 Exploring **MLOps**, **Cloud Cost Optimization**, and **Platform Engineering**  
 - 🛠️ Obsessed with automation, observability, and secure DevOps practices  
 - 💬 Ask me about: **AWS**, **Terraform**, **Docker**, **Kubernetes**, **CI/CD**, **Ansible**  
-- 📫 Reach me: [kunchalaravinder93@gmail.com] | [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/ravinder-kunchala-71661b183/))  
-- ⚡ Fun fact: I'm always up for a good infrastructure challenge and open-source collaboration!
+- 📫 Reach me: [kunchalaravinder93@gmail.com](mailto:kunchalaravinder93@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ravinder-kunchala-71661b183/)  
+- ⚡ Fun fact: Always up for a good infrastructure challenge and open-source collaboration!
 
 ---
 
@@ -34,21 +30,21 @@
 🚀 **DevOps & Cloud Tools I Work With**
 
 ```yaml
-- Infrastructure as Code: Terraform
-- Configuration Management: Ansible
-- Cloud Platforms: AWS, Azure, GCP
-- Containers: Docker, Kubernetes, Helm
-- CI/CD: GitHub Actions, Jenkins, GitLab CI, ArgoCD
-- Monitoring: Prometheus, Grafana, CloudWatch
-````
+Infrastructure as Code: Terraform
+Configuration Management: Ansible
+Cloud Platforms: AWS, Azure, GCP
+Containers: Docker, Kubernetes, Helm
+CI/CD: GitHub Actions, Jenkins, GitLab CI, ArgoCD
+Monitoring: Prometheus, Grafana, CloudWatch
+```
 
 ---
 
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunchalaravinder93&show_icons=true&theme=radical" alt="your-github-stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunchalaravinder93&theme=radical" alt="your-streak-stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunchalaravinder93&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunchalaravinder93&theme=radical" alt="GitHub Streak" height="180px"/>
 </p>
 
 ---
@@ -62,10 +58,14 @@
 
 ---
 
-🧠 **"Technology is best when it brings people together."**
+🧠 _"Technology is best when it brings people together."_  
 Let’s build something meaningful.
-
 ```
 
----
+### ✅ Fixes Made:
+- Corrected Markdown syntax where HTML/links weren’t rendering.
+- Removed unnecessary opening comment blocks (`<!--`).
+- Fixed link formatting in email and LinkedIn.
+- Ensured code blocks are valid for rendering YAML and Markdown.
 
+Drop this into your GitHub profile `README.md`, and it’ll sparkle 🌟. Want to add cool contributions, badges, or activity graphs too? I’ve got ideas for that.
