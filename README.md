@@ -1,4 +1,6 @@
 ```md
+<!-- ✅ DO NOT wrap the HTML in triple backticks -->
+
 <h1 align="center">Hi 👋, I'm RAVINDER KUNCHALA</h1>
 <h3 align="center">🚀 DevOps & Cloud Engineering</h3>
 
@@ -7,6 +9,19 @@
 </p>
 
 ---
+
+🌟 **About Me**
+... [rest of your markdown content continues]
+
+🚀 **DevOps & Cloud Tools I Work With**
+```yaml
+Infrastructure as Code: Terraform
+Configuration Management: Ansible
+Cloud Platforms: AWS, Azure, GCP
+Containers: Docker, Kubernetes, Helm
+CI/CD: GitHub Actions, Jenkins, GitLab CI, ArgoCD
+Monitoring: Prometheus, Grafana, CloudWatch
+
 
 🌟 **About Me**
 
