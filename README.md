@@ -1,4 +1,5 @@
-```markdown
+<!-- ✅ DO NOT wrap the HTML in triple backticks -->
+
 <h1 align="center">Hi 👋, I'm RAVINDER KUNCHALA</h1>
 <h3 align="center">🚀 DevOps & Cloud Engineering</h3>
 
@@ -9,26 +10,9 @@
 ---
 
 🌟 **About Me**
-
-- 🔭 Currently automating infrastructure and building CI/CD pipelines  
-- 🌱 Exploring **MLOps**, **Cloud Cost Optimization**, and **Platform Engineering**  
-- 🛠️ Obsessed with automation, observability, and secure DevOps practices  
-- 💬 Ask me about: **AWS**, **Terraform**, **Docker**, **Kubernetes**, **CI/CD**, **Ansible**  
-- 📫 Reach me: [kunchalaravinder93@gmail.com](mailto:kunchalaravinder93@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ravinder-kunchala-71661b183/)  
-- ⚡ Fun fact: Always up for a good infrastructure challenge and open-source collaboration!
-
----
-
-🔧 **Tech Stack**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,python,bash,linux,git,github,vscode" />
-</p>
-
----
+... [rest of your markdown content continues]
 
 🚀 **DevOps & Cloud Tools I Work With**
-
 ```yaml
 Infrastructure as Code: Terraform
 Configuration Management: Ansible
@@ -36,9 +20,7 @@ Cloud Platforms: AWS, Azure, GCP
 Containers: Docker, Kubernetes, Helm
 CI/CD: GitHub Actions, Jenkins, GitLab CI, ArgoCD
 Monitoring: Prometheus, Grafana, CloudWatch
-```
 
----
 
 📊 **GitHub Stats**
 
